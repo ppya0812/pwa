@@ -18,8 +18,17 @@ mario PWA
 
 ### 添加至桌面：
   浏览器【application】 --> 【manifest】--> 【add to homescreen】
-  确定后吗，即可在chrome 应用中 或者桌面程序中看到
+  确定后，即可在chrome 应用中 或者桌面程序中看到
 
 ### License
 
 MIT
+
+
+### 本地开发
+node node-server.js
+ngrok http 8080
+http-server
+
+
+### sw-register-webpack-plugin

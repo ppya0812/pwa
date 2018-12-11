@@ -25,6 +25,15 @@ body {
   white-space: nowrap;
 }
 
+#btn {
+  width: 8em;
+  height: 1.6em;
+  line-height: 1.6em;
+  text-align: center;
+  background: #fe5900;
+  color: #fff;
+  margin-top: 10px;
+}
 img {
   width: auto;
   max-width: 80%;
